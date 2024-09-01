@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋! I'm Medhavi Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&psig=AOvVaw1H-UpuFz5MVs6rJ9KQHhbV&ust=1725298296455000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCujMqjoogDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medhavi975&label=Profile%20views&color=0e75b6&style=flat" alt="medhavi975" /> </p>
 
